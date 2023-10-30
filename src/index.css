@@ -10,6 +10,23 @@ body {
   font-family: 'Inter', sans-serif;
 }
 
+nav li a {
+  margin: 0 0.5rem;
+}
+
+.dropdown-toggle {
+  font-weight: 500;
+  transition: all 0.2s;
+}
+
+.dropdown-toggle:hover {
+  color: #0AAd0A;
+}
+
+
+header span {
+  font-size: 24.5px;
+}
 
 .hero {
   min-height: 60vh;
@@ -40,21 +57,123 @@ body {
   padding: 3rem 2rem;
 }
 
+.productCard {
+  width: 47.5%;
+}
+
+.category,
+.rating {
+  font-size: 12.25px;
+}
+
+.text-muted {
+  color: #5c6c75;
+  opacity: 0.8;
+}
+
+.productCardContent .name {
+  font-size: 14px;
+  font-weight: 600;
+  transition: all 0.2s;
+}
+
+.productCardContent .price {
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.productCardContent .name:hover {
+  color: green;
+}
+
+.bestSellsContainer {
+  overflow-x: auto;
+  width: 100%;
+  gap: 1rem;
+}
+
+.dailySellCard {
+  width: 100%;
+  text-align: left !important;
+  min-width: 322px;
+}
+
+.btn-success {
+  background-color: #0AAd0A;
+}
+
+li {
+  font-size: 14px;
+  margin-bottom: 0.5rem;
+}
+
+.nav-item a {
+  text-decoration: none;
+}
+
+footer {
+  background: #f0f3f2;
+}
+
+.advantages {
+  text-align: start;
+
+}
+
+footer h6,
+.advantages p {
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.advantages .h5 {
+  font-size: 17.5px;
+}
+
+.timerContainer {
+  font-size: 14px;
+}
+
+
+
+
 @media (min-width:576px) {
   .container {
     max-width: 540px;
   }
 
+  .productCard {
+    width: 31.8%;
+  }
+
+  .dailySellCard {
+    width: 334px;
+  }
+
+}
+
+@media (min-width:700px) {
+  .productCard {
+    width: 31.8%;
+  }
 }
 
 @media (min-width:992px) {
   .container {
     max-width: 960px;
   }
+
+  .productCard {
+    width: 18.63%;
+  }
 }
 
 @media (min-width:1200px) {
   .container {
     max-width: 1140px;
+  }
+
+  .productCard {
+    width: 19%;
   }
 }

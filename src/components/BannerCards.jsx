@@ -18,7 +18,7 @@ const bannerCardsData = [
 
 const BannerCards = () => {
   return (
-    <section>
+    <section className="mb-5">
       <div className="container-sm my-3">
         <div className="row">
           {bannerCardsData.map((cardData) => (

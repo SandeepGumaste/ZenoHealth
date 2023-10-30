@@ -2,14 +2,14 @@ import React from "react";
 
 const Hero = () => {
   return (
-    <section className="hero px-3 col-xxl-5 col-md-7 text-xs-center text-start">
+    <section className="hero px-3 col-xxl-5 col-md-7 text-xs-center text-start mb-5">
       <div
         className="container-sm my-4 px-2 rounded-3 imageContainer d-flex align-items-center"
         style={{
           backgroundImage: "url(/assets/slide-1.jpg)",
         }}
       >
-        <div className="ps-4 ps-lg-5">
+        <div className="ps-4 ps-lg-5 col-12 col-lg-5">
           <span className="badge text-bg-warning">
             Opening Sale Discount 50%
           </span>
