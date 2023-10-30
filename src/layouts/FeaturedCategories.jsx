@@ -8,24 +8,24 @@ const featuredCategoriesData = [
       "https://freshcart.codescandy.com/assets/images/category/category-instant-food.jpg",
   },
   {
-    name: "Instant Food",
+    name: "Dairy, Bread & Eggs",
     imgUrl:
-      "https://freshcart.codescandy.com/assets/images/category/category-instant-food.jpg",
+      "https://freshcart.codescandy.com/assets/images/category/category-dairy-bread-eggs.jpg",
   },
   {
-    name: "Instant Food",
+    name: "Snack & Munchies",
     imgUrl:
-      "https://freshcart.codescandy.com/assets/images/category/category-instant-food.jpg",
+      "https://freshcart.codescandy.com/assets/images/category/category-snack-munchies.jpg",
   },
   {
-    name: "Instant Food",
+    name: "Bakery & Biscuits",
     imgUrl:
-      "https://freshcart.codescandy.com/assets/images/category/category-instant-food.jpg",
+      "https://freshcart.codescandy.com/assets/images/category/category-bakery-biscuits.jpg",
   },
   {
-    name: "Instant Food",
+    name: "Tea, Coffee & Drinks",
     imgUrl:
-      "https://freshcart.codescandy.com/assets/images/category/category-instant-food.jpg",
+      "https://freshcart.codescandy.com/assets/images/category/category-tea-coffee-drinks.jpg",
   },
   {
     name: "Instant Food",

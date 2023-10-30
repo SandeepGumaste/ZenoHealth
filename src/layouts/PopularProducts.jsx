@@ -39,9 +39,9 @@ const PopularProductsData = [
     id: 3,
   },
   {
-    category: "Cadbury 5 Star Chocolate",
+    category: "Snacks & munchies",
     rating: 4,
-    name: "NutriChoice Digestive",
+    name: "Onion Flavour Potato",
     price: {
       current: 32,
       actual: 35,
@@ -51,75 +51,75 @@ const PopularProductsData = [
     id: 4,
   },
   {
-    category: "Snacks & Munchies",
+    category: "Instant Food",
     rating: 3,
-    name: "Onion Flavour Potato",
+    name: "Salted Instant Popcorn",
     price: {
       current: 3,
       actual: 5,
     },
     imgUrl:
-      "https://freshcart.codescandy.com/assets/images/products/product-img-1.jpg",
+      "https://freshcart.codescandy.com/assets/images/products/product-img-5.jpg",
     id: 5,
   },
   {
-    category: "Bakery & Biscuits",
+    category: "Dairy, Bread & Eggs",
     rating: 4,
-    name: "NutriChoice Digestive",
+    name: "Blueberry Greek Yogurt",
+    price: {
+      current: 18,
+      actual: 24,
+    },
+    imgUrl:
+      "https://freshcart.codescandy.com/assets/images/products/product-img-6.jpg",
+    id: 6,
+  },
+  {
+    category: "Dairy, Bread & Eggs",
+    rating: 4,
+    name: "Britannia Cheese Slices",
     price: {
       current: 24,
       actual: 24,
     },
     imgUrl:
-      "https://freshcart.codescandy.com/assets/images/products/product-img-2.jpg",
-    id: 6,
-  },
-  {
-    category: "Cadbury 5 Star Chocolate",
-    rating: 4,
-    name: "NutriChoice Digestive",
-    price: {
-      current: 32,
-      actual: 35,
-    },
-    imgUrl:
-      "https://freshcart.codescandy.com/assets/images/products/product-img-3.jpg",
+      "https://freshcart.codescandy.com/assets/images/products/product-img-7.jpg",
     id: 7,
   },
   {
-    category: "Cadbury 5 Star Chocolate",
+    category: "Instant Food",
     rating: 4,
-    name: "NutriChoice Digestive",
+    name: "Kellog's Original Cereals",
     price: {
       current: 32,
       actual: 35,
     },
     imgUrl:
-      "https://freshcart.codescandy.com/assets/images/products/product-img-4.jpg",
+      "https://freshcart.codescandy.com/assets/images/products/product-img-8.jpg",
     id: 8,
   },
   {
-    category: "Cadbury 5 Star Chocolate",
+    category: "Snack & munchies",
     rating: 4,
-    name: "NutriChoice Digestive",
+    name: "Slurrp Millet Chocolate",
     price: {
-      current: 32,
-      actual: 35,
+      current: 3,
+      actual: 5,
     },
     imgUrl:
-      "https://freshcart.codescandy.com/assets/images/products/product-img-4.jpg",
+      "https://freshcart.codescandy.com/assets/images/products/product-img-9.jpg",
     id: 9,
   },
   {
-    category: "Cadbury 5 Star Chocolate",
+    category: "Dairy, Bread & Eggs",
     rating: 4,
-    name: "NutriChoice Digestive",
+    name: "Amul Butter-500g",
     price: {
       current: 32,
       actual: 35,
     },
     imgUrl:
-      "https://freshcart.codescandy.com/assets/images/products/product-img-4.jpg",
+      "https://freshcart.codescandy.com/assets/images/products/product-img-10.jpg",
     id: 10,
   },
 ];

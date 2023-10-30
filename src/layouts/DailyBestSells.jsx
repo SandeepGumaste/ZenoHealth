@@ -4,39 +4,39 @@ import BestSellsCard from "../components/BestSellsCard";
 
 const bestSellsData = [
   {
-    category: "Snacks & Munchies",
+    category: "Tea, Coffee & Drinks",
     rating: 3,
     name: "Onion Flavour Potato",
     price: {
-      current: 3,
-      actual: 5,
+      current: 13,
+      actual: 18,
     },
     imgUrl:
-      "https://freshcart.codescandy.com/assets/images/products/product-img-1.jpg",
+      "https://freshcart.codescandy.com/assets/images/products/product-img-11.jpg",
     id: 1,
   },
   {
-    category: "Bakery & Biscuits",
+    category: "Fruits & Vegetables",
     rating: 4,
-    name: "NutriChoice Digestive",
+    name: "Crushed Tomatoes",
     price: {
-      current: 24,
-      actual: 24,
+      current: 18,
+      actual: 18,
     },
     imgUrl:
-      "https://freshcart.codescandy.com/assets/images/products/product-img-2.jpg",
+      "https://freshcart.codescandy.com/assets/images/products/product-img-12.jpg",
     id: 2,
   },
   {
-    category: "Cadbury 5 Star Chocolate",
+    category: "Fruits & Vegetables",
     rating: 4,
-    name: "NutriChoice Digestive",
+    name: "Golden Pineapple",
     price: {
-      current: 32,
-      actual: 35,
+      current: 13,
+      actual: 18,
     },
     imgUrl:
-      "https://freshcart.codescandy.com/assets/images/products/product-img-3.jpg",
+      "https://freshcart.codescandy.com/assets/images/products/product-img-13.jpg",
     id: 3,
   },
 ];
