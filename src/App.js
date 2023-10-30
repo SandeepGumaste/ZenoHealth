@@ -5,7 +5,7 @@ import BannerCards from "./layouts/BannerCards";
 import DailyBestSells from "./layouts/DailyBestSells";
 import FeaturedCategories from "./layouts/FeaturedCategories";
 import Footer from "./layouts/Footer";
-import Hero from "./components/Hero";
+import Hero from "./layouts/Hero";
 import Navbar from "./layouts/Navbar";
 import PopularProducts from "./layouts/PopularProducts";
 
