@@ -1,13 +1,13 @@
 import { useCallback, useState } from "react";
 import "./App.css";
-import Advantages from "./components/Advantages";
-import BannerCards from "./components/BannerCards";
-import DailyBestSells from "./components/DailyBestSells";
-import FeaturedCategories from "./components/FeaturedCategories";
-import Footer from "./components/Footer";
+import Advantages from "./layouts/Advantages";
+import BannerCards from "./layouts/BannerCards";
+import DailyBestSells from "./layouts/DailyBestSells";
+import FeaturedCategories from "./layouts/FeaturedCategories";
+import Footer from "./layouts/Footer";
 import Hero from "./components/Hero";
-import Navbar from "./components/Navbar";
-import PopularProducts from "./components/PopularProducts";
+import Navbar from "./layouts/Navbar";
+import PopularProducts from "./layouts/PopularProducts";
 
 function App() {
   const [cartCount, setCartCount] = useState(0);

@@ -1,5 +1,5 @@
 import React from "react";
-import CommonCard from "./CommonCard";
+import CommonCard from "../components/CommonCard";
 import { Plus, ArrowRightShort } from "react-bootstrap-icons";
 import StarRatingComponent from "react-star-rating-component";
 

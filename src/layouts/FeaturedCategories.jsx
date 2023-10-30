@@ -1,5 +1,5 @@
 import React from "react";
-import FeaturedCategoryCard from "./FeaturedCategoryCard";
+import FeaturedCategoryCard from "../components/FeaturedCategoryCard";
 
 const featuredCategoriesData = [
   {

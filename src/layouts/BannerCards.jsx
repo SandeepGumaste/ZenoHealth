@@ -1,5 +1,5 @@
 import React from "react";
-import BannerCard from "./BannerCard";
+import BannerCard from "../components/BannerCard";
 
 const bannerCardsData = [
   {
